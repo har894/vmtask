@@ -19,7 +19,7 @@ This project implements a simple producer-consumer task using Java and the Produ
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/producer-consumer-task.git
+   git clone https://github.com/har894/vmtask.git
 
 
 ## Build the Project using Maven
